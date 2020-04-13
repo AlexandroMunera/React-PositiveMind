@@ -1,0 +1,1457 @@
+{
+    "next": "http://api.paperquotes.com/apiv1/quotes/?limit=50&offset=100",
+    "previous": "http://api.paperquotes.com/apiv1/quotes/?limit=50",
+    "results": [
+        {
+            "quote": "One fails forward toward success. Charles Kettering",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465600,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "To be great is to be misunderstood. Ralph Waldo Emerson",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465601,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Be brave when you are scared, and humble when you are victorious. Unknown",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465602,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Success has always been a great liar. Friedrich Nietzsche",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465603,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Success is the sum of details. Harvey S. Firestone",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465604,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Success can’t be forced. Loretta Young",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465605,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "The ladder of success is never crowded at the top. Napoleon Hill",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465606,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Success is the fruit of concentration. Navjot Singh Sidhu",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465607,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "There’s a lot of blood, sweat, and guts between dreams and success. Paul Bryant",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465608,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Success tempts many to their ruin. Phaedrus",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465609,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Success is a poor teacher. Robert Kiyosaki",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465610,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Success is dependent on effort. Sophocles",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465611,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Success is the sweetest revenge. Vanessa Williams",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465612,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Sooner or later, those who win are those who think they can. Richard Bach",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465613,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Become so curious and obsessed with one thing that you forget everything else. Follow it, drink it, dive deep in it, master it. Remarkable results need remarkable actions. Maxime Lagacé",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465614,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Success means having the courage, the determination, and the will to become the person you believe you were meant to be. George Sheehan",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465615,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "No one who strives to bring new life to something significant should be too quick to abandon the hope that he will succeed. Robert Walser",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465616,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "The whole secret of a successful life is to find out what is one’s destiny to do, and then do it. Henry Ford",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465617,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Greatness is not in where we stand, but in what direction we are moving. We must sail sometimes with the wind and sometimes against it – but sail we must and not drift, nor lie at anchor. Oliver Wendell Holmes",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465618,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "You aren’t going to find anybody that’s going to be successful without making a sacrifice and without perseverance. Lou Holtz",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465619,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "To me success means effectiveness in the world, that I am able to carry my ideas and values into the world – that I am able to change it in positive ways. Maxine Hong Kingston",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465620,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "You cannot dream yourself into a character;",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465621,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Give me a stock clerk with a goal and I’ll give you a man who will make history. Give me a man with no goals and I’ll give you a stock clerk. J. C. Penney",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465622,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood, who strives valiantly, who errs and comes short again and again, who knows the great enthusiasms, the great devotions, and spends himself in a worthy cause, who at best knows achievement and who at the worst if he fails at least fails while daring greatly so that his place shall never be with those cold and timid souls who know neither victory nor defeat. Theodore Roosevelt",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465623,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "I measure success in terms of the contributions an individual makes to her fellow human beings. Margaret Mead",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465624,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "What is success? I think it is a mixture of having a flair for the thing that you are doing; knowing that it is not enough, that you have got to have hard work and a certain sense of purpose. Margaret Thatcher",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465625,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success. Robert Kiyosaki",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465626,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "The heights by great men reached and kept, were not attained by sudden flight, but they, while their companions slept, were toiling upward in the night. Henry Wadsworth Longfellow",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465627,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "I long to accomplish a great and noble tasks, but it is my chief duty to accomplish humble tasks as though they were great and noble. The world is moved along, not only by the mighty shoves of its heroes, but also by the aggregate of the tiny pushes of each honest worker. Helen Keller",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465628,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "How many cares one loses when one decides not to be something but to be someone. Coco Chanel",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465629,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Be hungry for success, hungry to make your mark, hungry to be seen and to be heard and to have an effect. And as you move up and become successful, make sure also to be hungry for helping others. Arnold Schwarzenegger",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465630,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Success isn’t a result of spontaneous combustion. You must set yourself on fire. Arnold H. Glasow",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465631,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "The ladder of success is best climbed by stepping on the rungs of opportunity. Ayn Rand",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465632,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Think of success as a game of chance in which you have control over the odds. As you begin to master concepts in personal achievement, you are increasing your odds of achieving success. Bo Bennett",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465633,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome. Booker T. Washington",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465634,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Success is almost totally dependent upon drive and persistence. The extra energy required to make another effort or try another approach is the secret of winning. Denis Waitley",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465635,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Successful people are the ones who think up things for the rest of the world to keep busy at. Don Marquis",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465636,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "The most glorious moments in your life are not the so-called days of success, but rather those days when out of dejection and despair you feel rise in you a challenge to life, and the promise of future accomplishments. Gustave Flaubert",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465637,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Our best successes often come after our greatest disappointments. Henry Ward Beecher",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465638,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. Orison Swett Marden",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465639,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Success is a science; if you have the conditions, you get the result. Oscar Wilde",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465640,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Ambition is the path to success. Persistence is the vehicle you arrive in. Bill Bradley",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465641,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Why be a king, when you can be a god? Eminem",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465642,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "I’m the most successful bad player ever. Andy Roddick",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465643,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Successful people have libraries. The rest have big screen TVs. Jim Rohn",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465644,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "No burden is so heavy for a man to bear as a succession of happy days. Max Planck",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465645,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Success is simply a matter of luck. Ask any failure. Earl Wilson",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465646,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "I owe my success to having listened respectfully to the very best advice, and then going away and doing the exact opposite. G. K. Chesterton",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465647,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "The more successful the villain, the more successful the picture. Alfred Hitchcock",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465648,
+            "image": null,
+            "language": "en"
+        },
+        {
+            "quote": "Success is when the checks don’t bounce. Andy Warhol",
+            "author": null,
+            "likes": 0,
+            "tags": [
+                "success"
+            ],
+            "pk": 465649,
+            "image": null,
+            "language": "en"
+        },
+        
+                {
+                    "quote": "Las matemáticas son como poemas de la razón.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399027,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Si no sabes explicarlo para tontos, es que aún no lo has entendido.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399028,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Para mí ha sido más importante ser creativo que el afán por adquirir conocimientos lógicos.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399029,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Es raro cómo siendo tan famoso, me siento en soledad.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399030,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Un buen maestro sabe cómo despertar la curiosidad y la imaginación en sus pupilos.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399031,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Todos somos ignorantes. Lo que pasa es que no todos ignoramos las mismas cosas.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399032,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Las grandes mentes surgen a costa de las críticas de los mediocres.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399033,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "De un solo árbol nacen las ramas del arte, la literatura, la ciencia, las matemáticas y la religión.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399034,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "La espiritualidad y el misticismo son dos grandes responsables de la vulnerabilidad de una persona.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399035,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Durante la juventud, solo pensamos en el amor. Cuando maduramos, amamos nuestros pensamientos.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399036,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "El amor alumbra tanto a quien lo recibe como quien lo entrega. Es la más poderosa de las fuerzas.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399037,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "La rutina y la soledad son dos ingredientes clave para la creatividad.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399038,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Solamente te convertirás en maestro si te implicas con toda voluntad en una cosa.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399039,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Tener información en las manos no implica ser sabio.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399040,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Lo que dice la mayoría no siempre es verdadero, y lo verdadero no siempre lo dice la mayoría.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399041,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "La religión es imprescindible para que la vida de un hombre tenga sentido.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399042,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Si lo que quieres es explicar la realidad, olvídate de la distinción y sé claro y directo.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399043,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Aquella persona que lee muchos libros pero no utiliza su mente, está pecando de pensamientos holgazanes.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399044,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Las tres máximas que me han ayudado a ser feliz y seguir mi rumbo son la sencillez, la verdad y la bondad.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399045,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Un hombre creativo es un hombre inteligente que se lo pasa de miedo.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399046,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "El mejor modo de sonreír es haciendo sonreír a los demás.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399047,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Lo más enigmático del universo es que se puede comprender.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399048,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Lo más bonito de experimentar es lo enigmático. Es donde se realizan los hallazgos científicos más impresionantes.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399049,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Muchas de las acciones de las cúpulas religiosas así como de su mensaje a los feligreses, son tremendamente peligrosos para el mundo.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399050,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "El amor es la única fuerza ilimitada del universo.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399051,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Gracias a Dios, la imaginación está sobreviviendo a la educación convencional.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399052,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "No se puede hablar de paz cuando cada paso que se da podría generar un nuevo conflicto.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 399053,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Un hombre no es lo que los demás dicen que es, sino lo que uno hace de si mismo.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416049,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Siempre sonrie, porque debes recordar que en el cielo debes tener a una persona especial diciéndote, sonríe.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416050,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Recuerda que aunque llegues a sentirte cansado y acabado, nunca debes rendirte.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416051,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Un nuevo dia puede ser el comienzo de algo muy maravilloso solo debes empezar a creer.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416052,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Lo mejor que puedes hacer para salir de dudas, es intentarlo una y otra vez.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416053,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Prohibido rendirse, siempre piensa en todo lo que has sufrido y lo que te has esforzado y sigue adelante.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416054,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "No podemos rendirnos, porque en nuestros hombros cargamos las esperanzas de todas las personas que confían y confiaron en nosotros.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416055,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Creen en ti y en dios, porque cuando te falten fuerzas dios te apoyara y cuando debas hacer algo tu confianza te impulsara.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416056,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Acepta los riesgos y responsabilidades de tu vida, porque tu eres el único que sabe donde estas y decide a donde quieres llegar.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416057,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Todos caemos lo mas importante siempre es aprender a levantarse.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416058,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "El dolor existe para que nos volvamos personas mas fuertes y el amor para que nos volvamos personas de bien.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416059,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Sigue adelante inclusive cuando te sientas rendido.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416060,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "La diferencia entre alcanzar tu objetivo y no hacerlo, esta en creer que es posible.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416061,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Debes saber que el éxito no toca a tu puerta sin pedir nada a cambio, lo que pide es esfuerzo y dedicación.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416062,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Hoy va ser gran un día, no lo dudes.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416063,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Tal vez y donde estés ahora no es el mejor lugar, pero sin duda lo que hagas ahora dirá quien seras mañana.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416064,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Nunca dejes de soñar pues sera igual a estar muerto.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416065,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Olvídate de todas las excusas que te haces para decir que no vas a hacerlo, y concéntrate en la única esperanza que tengas para hacerlo.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416066,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Cada día no te fijes en lo que tienes sino en lo que plantas para el día de mañana.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416067,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Un largo camino, empieza con dar los primeros pasos.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416068,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Incluso si tienes miedo debes seguir adelante, porque debes saber que todos tenemos miedos, pero los afrontamos para poder avanzar.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416069,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Las cosas que ahora parecen errores son lecciones, no lo olvides.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416070,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Este es el momento para brillar con todas tus fuerzas, no es mañana ni hoy, es ahora.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416071,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "El dolor es temporal, y no debes dejarte vencer por el, porque puede hacerte sentir rendido, pero es mejor sufrir ese dolor un momento que una eternidad.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416072,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Solo empezando a correr riesgos sabrás hasta donde puedes correr.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416073,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "No olvides que querer ganar es importante pero lo es aun mas el prepararse para ganar.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416074,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "El éxito se consigue al fallar una y otra vez y decidirte a seguir adelante.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416075,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "No pienses mucho en el futuro, mejor concéntrate en crearlo.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416076,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Tienes que saber que no sera fácil, pero si te esfuerzas, es seguro que valdrá la pena.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416077,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Tu destino es cuestión de elección , y no de simple casualidad, así que deja de esperar y comienza a trabajar.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416078,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Tal vez y no podamos decir donde o cuando vamos a morir, pero si podemos decidir como vamos a vivir.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416079,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Un verdadero triunfo ocurre cuando la persona renace de las cenizas de sus errores.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416089,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Mira al cielo y pregúntate ¿estoy satisfecho con mi vida?",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416090,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Todos tu sueños pueden ser posibles si estas dispuesto a sacrificar tu vida persiguiéndolos.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416091,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "No esperes el momento perfecto para hacer lo que debes, toma este momento y hazlo perfecto.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416092,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Tu éxito no va a depender del ambiente o las personas que te rodean, sólo va a depender de la voluntad y fortaleza que existe en tu corazón.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416093,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "El éxito dependerá de cuanto intentes y resistes.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416094,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "La vida te pondrá a prueba, pero tú decides hasta donde llegar.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416095,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "No hagas lo que hacen todos lo demás, haz lo que ellos quisieran hacer, pero no lo hacen.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416096,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "La vida no siempre es color de rosas, enfrenta con valor tu vida, ya que es el resultado de tus actos.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416097,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Si la vida te da razones para llorar hazte cosquillas.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416098,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "El primer paso que debes hacer para demostrar tu madurez, es aceptar los errores, y recordar que cualquier momento es el ideal para retomar el camino hacia las metas trazadas.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416099,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Sólo tú eres el causante de tu éxito o tu fracaso.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416100,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Siempre cree en ese sueño, aunque te den razones para desistir.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416101,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "No te deprimas por cometer fallar, porque de ser perfecto no se aprende nada.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416102,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Muchos tienen miedo de perder algo, por perseguir algo mas grande, pero si no tomas acción vivirás tus días arrepintiéndote.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416103,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "En realidad la única carrera que tenemos, es contra nosotros mismos.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416104,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "El amor y la paz solo nacen de la tristeza y la desesperación.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416105,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Errar duele, olvidar duele, pero lo que mas duele es no hacer nada.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416106,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "El éxito verdadero es vivir la vida de la manera en que te haga feliz.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416107,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Un día tu vida pasara en un instante a través de tus ojos, asegúrate de que valga la pena mirarla.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416108,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "¿Porque crees que puedo conseguirlo? porque todos confiamos en ti.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416109,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "La mejor motivación que puedes tener es pensar en aquello por lo haces las cosas.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416110,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Cada día aprenderás lecciones, porque estás inscrito en el colegio de la vida.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416111,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Seguramente muchas de las lecciones de la vida no te gustan, pero como dicen muchas frases, no se tratan de errores, en realidad son lecciones.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416112,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Después de la lluvia sale el sol.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416113,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Crecer y madurar duele, es un proceso de ensayo y error, cada vez que fallas en algo, no te desmorones, simplemente estás adquiriendo experiencia.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416114,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "No importa que tan duro sea el camino, sino cuanto quieras alcanzar la meta.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416115,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Para empezar, empieza por hablar menos y hacer más.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416116,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Y cuando menos te lo esperabas todo saldrá bien.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416117,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Si fuiste capaz de soñarlo eres capaz de logarlo",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416118,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Si te toca aprender duras lecciones, felicitaciones, es la principal señal de que estás vivo, y nunca estás estático en tu vida.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416119,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Si todo fuera color de rosa, cualquiera lo lograría, sigue intentando.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416120,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "La principal causa de muerte de un sueño, es una mente cerrada a nuevas ideas y frases optimistas.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416121,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Nunca desistas de tus deseos, como dicen algunas frases: si fuera fácil, cualquiera lo alcanzaría.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416122,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Tienes permitido dejarte querer, además es gratis.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416123,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Por cada persona que te ha herido, siempre habrá otra que está dispuesta a hacerte muy feliz.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416124,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "El orgullo quizás te hará sentir fuerte, pero nunca te hará sentir feliz.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416125,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Nunca mires hacia atrás con ira, ni hacia adelante con temor, se trata de mirar a tu alrededor con atención.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416126,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Mientras no arreglemos nuestro interior nuestro exterior nunca jugara a nuestro favor.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416127,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Haz lo que te diga el corazón, aveces hay que desconectar nuestra cabeza para escuchar la voz de nuestro corazón.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416128,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Siempre que trabajes en algo que te haga feliz, podrás trabajar cada día con una sonrisa en el rostro.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416129,
+                    "image": null,
+                    "language": "es"
+                },
+                {
+                    "quote": "Haz las cosas por ti, y no por complacer a otros.",
+                    "author": null,
+                    "likes": 0,
+                    "tags": [],
+                    "pk": 416130,
+                    "image": null,
+                    "language": "es"
+                }
+    ]
+}
